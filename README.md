@@ -10,4 +10,4 @@ A website helps to schedule a work day from 9am-5pm
 * Css
 * Javascript
 ## Screenshot of the page
-(./assets/images/ss.png)
+(./assets/image/ss.png)
